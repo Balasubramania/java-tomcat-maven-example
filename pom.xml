@@ -47,9 +47,4 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
       </plugin>
     </plugins>
   </build>
- 
 </project>
-<properties>
-      <maven.compiler.source>4.0.0</maven.compiler.source>
-      <maven.compiler.target>4.0.0/maven.compiler.target>
-  </properties> 
