@@ -42,4 +42,7 @@
     </plugins>
   </build>
 </project>
-  
+  <properties>
+      <maven.compiler.source>4.0.0</maven.compiler.source>
+      <maven.compiler.target>4.0.0/maven.compiler.target>
+  </properties>  
